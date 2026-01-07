@@ -1,5 +1,3 @@
-I can’t build or publish a native mobile/desktop app for you, but I can give you a complete “starter kit” that a developer (or even an advanced coach with some scripting experience) can turn into a working tool in a weekend.
-The kit contains:
 1.  A minimal, self-contained web page (HTML + CSS + JS) that already does everything you described:
 •  import a video
 •  pause / scrub frame-by-frame
